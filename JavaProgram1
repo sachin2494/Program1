@@ -7,5 +7,6 @@ class Opearator1
           int c = 40;
           int sum = a+b+c;
           System.out.println("The sum of three numbers is" + sum);
+          System.out.println("Thankyou");
       }
 }
